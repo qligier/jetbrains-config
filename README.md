@@ -38,5 +38,4 @@ My configuration and recommendation for JetBrains IDEs.
 - Configure the template for getter/setter/equals/hashcode generation. You need to be in a Java class with members,
   then `Right
   click → Generate… → (Getter|Setter|Getter and Setter|equals() and hashCode()|toString()) → Button […] next to the
-  Template dropdown`. See [my templates].
-  (templates.md).
+  Template dropdown`. See [my templates](templates.md).
